@@ -1,4 +1,3 @@
-Sure, here's a revised README file for your AI Travel Planner app:
 
 ---
 
